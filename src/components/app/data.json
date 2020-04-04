@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "eventName": "Metallica Concert",
+    "place": "Palace Grounds",
+    "entryType": "Paid Entry",
+    "thumbnailIcon": "https://i.picsum.photos/id/159/200/200.jpg"
+  },
+  {
+    "id": "2",
+    "eventName": "Saree Exhibition",
+    "entryType": "Free Entry",
+    "place": "Malleswaram Grounds",
+    "thumbnailIcon": "https://i.picsum.photos/id/160/200/200.jpg"
+  },
+  {
+    "id": "3",
+    "eventName": "Wine tasting event",
+    "entryType": "Paid Entry",
+    "place": "Links Brewery",
+    "thumbnailIcon": "https://i.picsum.photos/id/161/200/200.jpg"
+  },
+  {
+    "id": "4",
+    "eventName": "Startups Meet",
+    "entryType": "Paid Entry",
+    "place": "Kanteerava Indoor Stadium",
+    "thumbnailIcon": "https://i.picsum.photos/id/162/200/200.jpg"
+  },
+  {
+    "id": "5",
+    "eventName": "Summer Noon Party",
+    "entryType": "Paid Entry",
+    "place": "Kumara Park",
+    "thumbnailIcon": "https://i.picsum.photos/id/163/200/200.jpg"
+  },
+  {
+    "id": "6",
+    "eventName": "Rock and Roll nights",
+    "entryType": "Paid Entry",
+    "place": "Sarjapur Road",
+    "thumbnailIcon": "https://i.picsum.photos/id/164/200/200.jpg"
+  },
+  {
+    "id": "7",
+    "eventName": "Barbecue Fridays",
+    "entryType": "Paid Entry",
+    "place": "Whitefield",
+    "thumbnailIcon": "https://i.picsum.photos/id/165/200/200.jpg"
+  },
+  {
+    "id": "8",
+    "eventName": "Summer workshop",
+    "entryType": "Free Entry",
+    "place": "Indiranagar",
+    "thumbnailIcon": "https://i.picsum.photos/id/166/200/200.jpg"
+  },
+  {
+    "id": "9",
+    "eventName": "Impressions & Expressions",
+    "entryType": "Free Entry",
+    "place": "MG Road",
+    "thumbnailIcon": "https://i.picsum.photos/id/167/200/200.jpg"
+  },
+  {
+    "id": "10",
+    "eventName": "Italian carnival",
+    "entryType": "Free Entry",
+    "place": "Electronic City",
+    "thumbnailIcon": "https://i.picsum.photos/id/168/200/200.jpg"
+  }
+]
