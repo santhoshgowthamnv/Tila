@@ -8,6 +8,7 @@ import HomeScreen from "./components/app/HomeScreen";
 import EventDetailScreen from "./components/app/EventDetailScreen";
 import CustomDrawerContentComponent from "./components/common/CustomDrawerContentComponent";
 import { width, scaledSize } from "./helpers/utils";
+import { commonStyles } from "./components/common/styles/miscStyles";
 
 
 
@@ -19,7 +20,7 @@ const AppStack = createStackNavigator({
 const DrawerStack = createDrawerNavigator({
     Drawer: AppStack,
 }, {
-    drawerPosition: 'right',
+    drawerPosition: commonStyles.right,
     drawerWidth: width - scaledSize(70),
     contentComponent: CustomDrawerContentComponent
 })
