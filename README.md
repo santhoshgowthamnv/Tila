@@ -15,6 +15,4 @@ The goal is to create a simple app which displays a bunch of events, and allows 
 1. The app should run on both Phone and Tablet form factors. 
 2. The app should run on both iOS and Android. 
 
-#Screenshots:
 
-![Image description] /Users/gowtham.n/Desktop/untitled folder/Simulator Screen Shot - iPhone X - 2020-04-04 at 19.21.08
