@@ -17,4 +17,4 @@ The goal is to create a simple app which displays a bunch of events, and allows 
 
 #Screenshots:
 
-![Image description] (Simulator Screen Shot - iPhone X - 2020-04-04 at 19.21.08.png)
+![Image description] /Users/gowtham.n/Desktop/untitled folder/Simulator Screen Shot - iPhone X - 2020-04-04 at 19.21.08
